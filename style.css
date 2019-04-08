@@ -1,0 +1,366 @@
+BODY {
+background-image:url( "./header.png" );
+background-repeat:repeat-x;
+font-family:Open Sans Light ;
+font-size:14px;
+color:rgba(51,51,51,1);
+background-color:rgba(250,250,250,1)
+}
+
+#footer {
+float:left;
+position:absolute;
+left:0;
+width:100%;
+height:198px
+}
+
+#footerContent {
+position:absolute;
+left:50%;
+width:960px;
+margin-left:-480px
+}
+
+.nof_RibbonForestBanners1-Default{
+font-family:The Girl Next Door ;
+font-size:30px;
+color:#ebe2d5;
+font-style:normal;
+font-weight:400
+}
+
+.nof_RibbonForestNavbar12-HighlightedRollover{
+font-family:The Girl Next Door ;
+color:#fafafa;
+font-weight:100;
+text-shadow:2px 2px 3px rgba(255,255,255,0.1);
+font-size:14px
+}
+
+P {
+font-family:Open Sans Light ;
+font-size:14px;
+color:rgba(51,51,51,1);
+line-height:1.5em;
+font-weight:100
+}
+
+.TextObject{
+font-family:Open Sans Light ;
+font-size:14px;
+color:rgba(51,51,51,1);
+font-weight:100
+}
+
+.TextNavBar{
+font-family:Open Sans Light ;
+font-size:14px;
+color:#000
+}
+
+A {
+font-family:Open Sans Light ;
+font-size:14px;
+color:#7ba38a;
+font-weight:100
+}
+
+A:visited {
+font-family:Open Sans Light ;
+font-size:14px;
+color:#909090;
+font-weight:100
+}
+
+A:active {
+font-size:14px;
+color:#333;
+font-weight:100;
+font-family:Open Sans Light 
+}
+
+A:hover {
+font-family:Open Sans Light ;
+font-size:14px;
+color:#a1bdab;
+font-weight:100
+}
+
+.jcarousel-skin-nof .jcarousel-next-horizontal{
+background:transparent url( "./nof-carousel-nav-right-lt.png" ) no-repeat 95% 50%
+}
+
+.jcarousel-skin-nof .jcarousel-prev-horizontal{
+background:transparent url( "./nof-carousel-nav-left-lt.png" ) no-repeat 5% 50%
+}
+
+.jcarousel-skin-nof .jcarousel-next-vertical{
+background:transparent url( "./nof-carousel-nav-down-lt.png" ) no-repeat 50% 95%
+}
+
+.jcarousel-skin-nof .jcarousel-prev-vertical{
+background:transparent url( "./nof-carousel-nav-up-lt.png" ) no-repeat 50% 5%
+}
+
+.ui-accordion a {
+border:none!important
+}
+
+div.ui-accordion.selected a.head.selected  {
+background-image:url( "./AccordionTabOpen.png" )!important;
+color:#A1BDAB!important
+}
+
+.ui-accordion a.head {
+background-image:url( "./AccordionTabClosed.png" )!important;
+background-color:#fff!important;
+border:none!important;
+font-size:11px!important;
+color:#fafafa!important;
+font-weight:400!important;
+text-indent:25px!important;
+height:30px!important;
+line-height:30px!important
+}
+
+.ui-accordion .ui-accordion-panel a {
+display:inline!important
+}
+
+.ui-tabs-panel{
+border:1px solid #EBE2D5!important;
+background-color:#fff!important;
+padding:5px!important
+}
+
+.ui-tabs-nav a {
+background-image:url( "./tab_top.png" )!important;
+font-weight:400!important;
+color:#fafafa!important;
+font-size:11px!important;
+line-height:22px!important
+}
+
+.ui-tabs-nav .ui-tabs-selected a {
+color:#A1BDAB!important
+}
+
+.ui-tabs-nav a span  {
+background-image:url( "./tab_top.png" )!important;
+max-height:50px;
+height:22px!important
+}
+
+.ui-tabs-nav a:hover span {
+background-position:0 -50px!important
+}
+
+.ui-tabs-nav a:hover {
+background-position:100% -150px!important;
+color:#A1BDAB!important
+}
+
+div.TogglePaneFancyHeader {
+font-family:inherit!important;
+font-size:11px!important;
+font-weight:400!important;
+line-height:30px;
+height:30px!important;
+text-indent:25px;
+cursor:pointer;
+border:1px solid #EBE2D5!important;
+background-color:transparent!important;
+background-image:url( "./TogglePaneOpen.png" )!important;
+background-position:0 0!important;
+color:#A1BDAB!important;
+border-width:0 1px!important;
+padding:0!important
+}
+
+div.TogglePaneFancyHeaderClosed {
+background-color:transparent!important;
+background-image:url( "./TogglePaneClosed.png" )!important;
+background-position:0 0!important;
+color:#fafafa!important
+}
+
+.nof_RibbonForestNavbar4-Regular{
+font-family:The Girl Next Door ;
+font-size:18px;
+color:#ebe2d5
+}
+
+.nof_RibbonForestNavbar6-Highlighted{
+font-family:The Girl Next Door ;
+font-size:18px;
+color:#ebe2d5
+}
+
+.nof_RibbonForestNavbar5-Rollover{
+font-family:The Girl Next Door ;
+font-size:18px;
+color:#fafafa
+}
+
+.nof_RibbonForestNavbar7-HighlightedRollover{
+font-family:The Girl Next Door ;
+font-size:18px;
+color:#fafafa
+}
+
+.nof_RibbonForestNavbar9-Regular{
+font-family:The Girl Next Door ;
+font-size:14px;
+color:#fafafa
+}
+
+.nof_RibbonForestNavbar10-Rollover{
+font-family:The Girl Next Door ;
+font-size:14px;
+color:#fafafa
+}
+
+.nof_RibbonForestNavbar11-Highlighted{
+font-family:The Girl Next Door ;
+font-size:14px;
+color:#fafafa
+}
+
+H1{
+font-family:The Girl Next Door ;
+font-weight:100;
+color:#333
+}
+
+H2{
+font-family:The Girl Next Door ;
+font-weight:100;
+color:#333
+}
+
+H3{
+font-family:The Girl Next Door ;
+font-weight:100;
+color:#333
+}
+
+H4{
+font-family:The Girl Next Door ;
+font-weight:100;
+color:#333
+}
+
+H5{
+font-family:The Girl Next Door ;
+font-weight:100;
+color:#333
+}
+
+H6 {
+font-family:The Girl Next Door ;
+font-weight:100;
+color:#333
+}
+
+OL{
+font-family:Open Sans Light ;
+font-size:14px;
+font-weight:100
+}
+
+UL {
+font-family:Open Sans Light ;
+font-size:14px;
+font-weight:100
+}
+
+.jcarousel-skin-nof:hover .jcarousel-next-horizontal{
+background-image:url( "./nof-carousel-nav-right-lt.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-next-horizontal:hover{
+background-image:url( "./nof-carousel-nav-right-lt.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-direction-rtl .jcarousel-prev-horizontal:hover {
+background-image:url( "./nof-carousel-nav-right-lt.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-direction-rtl .jcarousel-next-horizontal:hover{
+background-image:url( "./nof-carousel-nav-left-lt.png" )
+}
+
+.jcarousel-skin-nof:hover .jcarousel-prev-horizontal{
+background-image:url( "./nof-carousel-nav-left-lt.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-prev-horizontal:hover {
+background-image:url( "./nof-carousel-nav-left-lt.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-next-horizontal:focus{
+background-image:url( "./nof-carousel-nav-right-dk.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-next-horizontal:active {
+background-image:url( "./nof-carousel-nav-right-dk.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-prev-horizontal:focus{
+background-image:url( "./nof-carousel-nav-left-dk.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-prev-horizontal:active {
+background-image:url( "./nof-carousel-nav-left-dk.png" )
+}
+
+.jcarousel-skin-nof:hover .jcarousel-next-vertical{
+background-image:url( "./nof-carousel-nav-down-lt.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-next-vertical:hover{
+background-image:url( "./nof-carousel-nav-down-lt.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-direction-rtl .jcarousel-prev-vertical:hover {
+background-image:url( "./nof-carousel-nav-down-lt.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-direction-rtl .jcarousel-next-vertical:hover{
+background-image:url( "./nof-carousel-nav-up-lt.png" )
+}
+
+.jcarousel-skin-nof:hover .jcarousel-prev-vertical{
+background-image:url( "./nof-carousel-nav-up-lt.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-prev-vertical:hover {
+background-image:url( "./nof-carousel-nav-up-lt.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-next-vertical:focus{
+background-image:url( "./nof-carousel-nav-down-dk.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-next-vertical:active {
+background-image:url( "./nof-carousel-nav-down-dk.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-prev-vertical:focus{
+background-image:url( "./nof-carousel-nav-up-dk.png" )
+}
+
+.jcarousel-skin-nof .jcarousel-prev-vertical:active {
+background-image:url( "./nof-carousel-nav-up-dk.png" )
+}
+
+.ui-accordion{
+border:1px solid #EBE2D5!important;
+border-top:none!important;
+background-color:#fff!important
+}div.TogglePanePlainContent {
+border:1px solid #EBE2D5!important;
+border-top:none!important;
+background-color:#fff!important
+}
